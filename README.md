@@ -1,6 +1,6 @@
 # Keylogger
 
-*Disclaimer
+*<b>Disclaimer</b>
 
 <b>Do not use this keylogger for privacy violation, this is just an example of a keylogger, I will not take responsibility for your actions</b>
 
