@@ -165,7 +165,7 @@ def entradas(llave):
         pass
     elif llave == 'Key.up':
         pass
-    elif llave == "'\\x1b'":
+    elif llave == "Key.esc":
         p.write(' ESC ')
     else:
         p.write(llave.replace("'",""))
