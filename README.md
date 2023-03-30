@@ -6,6 +6,6 @@ and save the pressed keys in the txt if you dont end it the txt is going to be e
 Para usarlo, simplemente haga doble clic y se ejecutará como un subproceso silencioso, <b>es importante que presione CTRL + 5 para finalizarlo</b>
 y pueda guardar las teclas presionadas en el txt, si no lo finaliza, el txt estará vacío.
 
-Example txt file | ejemplo del archivo txt
+Example txt file KG+date.txt| ejemplo del archivo txt KG+fecha.txt
 
 ![image](https://user-images.githubusercontent.com/74321905/228710631-15f62b88-e9aa-4f7d-bdf1-3bf0d62c94cd.png)
